@@ -58,7 +58,6 @@ libgdk-pixbuf2.0-0
 libcairo-gobject2
 # needed for CR recordings and FF video playback
 ffmpeg
-libvpx5
 libpulse0
 libusb-1.0-0
 EOF
